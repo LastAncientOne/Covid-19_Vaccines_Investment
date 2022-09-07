@@ -1,7 +1,7 @@
 # Covid-19 Vaccines
 
 ### Description:
-#### This a project of long term investment and see which Covid-19 Vaccines is a good long term investment. Analyzing historical data (5 years) and calculate performance measurements, back-testing, forecasting, and using Capital Asset Pricing Model. Testing different trading strategies. Finding stock with lowest risks with highest returns.  
+#### This a project of long term investment and see which Covid-19 Vaccines is a good long term investment. Analyzing historical data (2 years) and calculate performance measurements, back-testing, forecasting, and using Capital Asset Pricing Model. Testing different trading strategies. Finding stock with lowest risks with highest returns.  
 ### Stock Tickers:
 #### BNTX - BioNTech SE  
 #### JNJ - Johnson & Johnson      
