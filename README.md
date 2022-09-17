@@ -10,7 +10,7 @@
 #### MRNA - Moderna, Inc.  
 #### PFE - Pfizer Inc.  
 
-#### Use accountant statements and historical price in Excel, python, Power BI, and Tableau for Stocks Analysis
+#### Use income, balance, and cashflow statements and historical price in Excel, python, Power BI, and Tableau for Stocks Analysis
 
 
 # Prerequistes  
