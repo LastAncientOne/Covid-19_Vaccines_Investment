@@ -25,6 +25,16 @@
 
 #### Tableau
 
+# Analysis  
+### Ratio Analysis  
+#### BNTX have the most high ratios in Profitability Ratio  
+#### BNTX have the most high ratios in Operating Ratio  
+#### PFE have the most high ratios in Leverage Ratio  
+#### JNJ have the most high ratios in Valuation Ratio  
+#### BNTX have the most high ratios in Liquidity Ratio    
+#### BNTX is good investment according to ratio analysis  
+
+
 ## Authors  
 ### * Tin Hang  
 
