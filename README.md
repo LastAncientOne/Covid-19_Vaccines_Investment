@@ -28,7 +28,8 @@
 # Analysis  
 ### Ratio Analysis  
 BNTX have the most high ratios in Profitability Ratio. BNTX have the most high ratios in Operating Ratio. PFE have the most high ratios in Leverage Ratio. JNJ have the most high ratios in Valuation Ratio. BNTX have the most high ratios in Liquidity Ratio. BNTX is good investment according to ratio analysis.    
-
+### Income Statement  
+BNTX's revenue increase more than triple from 2019 to 2020 and $108.59 to $482.33 in millions.  MRNA's revenue increase more than triple from 2019 to 2020 and $60.21 to $803.40 in millions. JNJ and PFE did not increase much and they were stable.  
 
 ## Authors  
 ### * Tin Hang  
