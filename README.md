@@ -1,6 +1,6 @@
 <img src="Covid_19.PNG">
 
-# Covid-19 Vaccines
+# Covid-19 Vaccines Investment
 
 ### Description:
 #### This a project of long term investment and see which Covid-19 Vaccines is a good long term investment. Analyzing historical data (2 years) and calculate performance measurements, back-testing, forecasting, and using Capital Asset Pricing Model. Testing different trading strategies. Finding stock with lowest risks with highest returns.  
