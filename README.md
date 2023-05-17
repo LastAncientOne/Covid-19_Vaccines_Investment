@@ -48,13 +48,11 @@ The balance sheet is known as a "statement of financial position." It reveals th
 
 ### Cash flow  Statement 
 The main components of the CFS are cash from three areas: operating activities, investing activities, and financing activities. The most important part of the cashflow statement is the operating section of the cash flow statement ends with net cash provided (used) by operating activities.
+## Author:  
+### Tin Hang  
 
-## Authors  
-### * Tin Hang  
-
-## Disclaimer  
+## Disclaimer
 ## 🔴 This is not get rich quick.  
 ## 🔴 This is not financial advisor.   
 ## 🔴 This is for researching and educational purposes.  
 ### This is not financial advisor. Do your own research. Do not use this code for investing or trading in the stock market. However, if you are interest in the stock market, you should read books investment, trading, stock market, and finance. Consult a professional investment advisor before making any investment decisions. This educational purposes.  
-
