@@ -9,20 +9,15 @@
 #### MRNA - Moderna, Inc.  
 #### PFE - Pfizer Inc.  
 
-#### Use income, balance, and cashflow statements and historical price in Excel, python, Power BI, and Tableau for Stocks Analysis
+#### Use income, balance, and cashflow statements and historical price in Excel, Python, Power BI, and Tableau for Stocks Analysis
 
 
 # Prerequistes  
-
-#### Python 3.5+
-
+#### Python 3.5+  
 #### Jupyter Notebook Python 3.5  
-
-#### Excel 2016
-
+#### Excel 2016  
 #### Power BI  
-
-#### Tableau
+#### Tableau  
 
 # Analysis  
 ### Financial Ratio or Accounting Ratio:  
