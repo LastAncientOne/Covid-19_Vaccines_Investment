@@ -2,15 +2,14 @@
 <h1 align="center">Covid-19 Vaccines Investment</h1>
 
 ### Description:
-#### This a project of long term investment and see which Covid-19 Vaccines is a good long term investment. Analyzing historical data (2 years) and calculate performance measurements, back-testing, forecasting, and using Capital Asset Pricing Model. Testing different trading strategies. Finding stock with lowest risks with highest returns.  
+#### This is a long-term investment project aimed at identifying Covid-19 vaccines that have strong potential for sustained growth. The project involves analyzing historical data spanning two years, calculating performance measurements, conducting back-testing, forecasting, and utilizing the Capital Asset Pricing Model. Various trading strategies will be tested in order to identify stocks with the lowest risks and highest returns.  
 ### Stock Tickers:
 #### BNTX - BioNTech SE  
 #### JNJ - Johnson & Johnson      
 #### MRNA - Moderna, Inc.  
 #### PFE - Pfizer Inc.  
 
-#### Use income, balance, and cashflow statements and historical price in Excel, Python, Power BI, and Tableau for Stocks Analysis
-
+#### To perform the analysis, income, balance, and cashflow statements, as well as historical price data, will be utilized using tools such as Excel, Python, Power BI, and Tableau for Stocks Analysis.  
 
 # Prerequistes  
 #### Python 3.5+  
@@ -33,18 +32,19 @@ Valuation Ratios – financial metrics to evaluate how the relationship between 
 Liquidity Ratios – financial metrics to evaluate how the company's ability to pay debt obligations and its margin of safety through the calculation of metrics including the current ratio, quick ratio, and operating cash flow ratio.   
 
 ### Ratio Analysis  
-Ratio analysis is a quantitative method for comparison of gaining insight into a company's liquidity, operational efficiency, and profitability by studying its financial statements such as the balance sheet and income statement. Ratio analysis is a cornerstone of fundamental equity analysis. BNTX has the highest profitability ratio. BNTX has the highest ratio in operating ratio. PFE has the highest ratios in Leverage Ratio. JNJ has the highest ratio in valuation ratio. BNTX has the highest ratio in liquidity ratio. BNTX is a good investment according to ratio analysis.  
+Ratio analysis is a quantitative method used to gain insights into a company's liquidity, operational efficiency, and profitability by studying its financial statements, such as the balance sheet and income statement. It serves as a cornerstone of fundamental equity analysis. Among the companies analyzed, BNTX exhibits the highest profitability ratio, the highest operating ratio, and the highest liquidity ratio. On the other hand, PFE demonstrates the highest leverage ratio, while JNJ has the highest valuation ratio. Based on ratio analysis, BNTX appears to be a good investment.    
 
 ### Income Statement  
-The income statement describes how profitable your business is. It shows you how much money flows into and out of your business over a certain time, such as yearly or quarterly. The 3 most important parts of income statements are gross profit, operating expense, and net earnings or net income. BNTX's revenue increased more than triple from 2019 to 2020 and from $108.59 to $482.33 in millions.  MRNA's revenue increased more than triple from 2019 to 2020 and from $60.21 to $803.40 in millions. JNJ and PFE did not increase much and they were stable. BNTX, JNJ, and MRNA spend more money each year on total operating expenses. PFE's total operating expenses were decreasing, but in 2020, they spent more than previous year.  In 2019, BNTX's net income is $15.20, JNJ's net income is $14.4, MRNA's net income is -$747.06, and PFE's net income is $9.6 million.  
+The income statement provides information about a business's profitability by showing the inflow and outflow of money over a specific period, such as a year or a quarter. The three most important components of an income statement are gross profit, operating expenses, and net earnings or net income. From 2019 to 2020, BNTX experienced a revenue increase of over threefold, with revenues rising from $108.59 million to $482.33 million. Similarly, MRNA witnessed a significant revenue surge from $60.21 million to $803.40 million during the same period. In contrast, JNJ and PFE remained relatively stable with minor revenue growth. Additionally, BNTX, JNJ, and MRNA consistently increased their total operating expenses each year. Although PFE's total operating expenses showed a declining trend, they increased in 2020 compared to the previous year. In 2019, BNTX reported a net income of $15.20 million, JNJ had a net income of $14.4 million, MRNA incurred a net loss of -$747.06 million, and PFE achieved a net income of $9.6 million.   
 
 ### Balance Statement  
-The balance sheet is known as a "statement of financial position." It reveals the firm's assets, liabilities, and owners' equity (net worth). The most important part of the balance statements are cash, accounts receivable, short-term investments, property, plant, equipment, and other major liabilities.  
+The balance sheet, also known as a "statement of financial position," provides information about a company's assets, liabilities, and owners' equity (net worth). The significant components of a balance sheet include cash, accounts receivable, short-term investments, property, plant, equipment, and major liabilities.  
 
 ### Cash flow  Statement 
-The main components of the CFS are cash from three areas: operating activities, investing activities, and financing activities. The most important part of the cashflow statement is the operating section of the cash flow statement ends with net cash provided (used) by operating activities.
+The cash flow statement (CFS) comprises three main components: cash from operating activities, cash from investing activities, and cash from financing activities. The operating section of the cash flow statement concludes with the net cash provided (used) by operating activities and is considered the most crucial part of the statement.  
+
 ## Author:  
 ### Tin Hang  
 
 ## Disclaimer
-## 🔴 This is not a financial advisor. Please conduct your own research. Do not use this code for investing or trading in the stock market. However, if you are interested in the stock market, you should read books on investment, trading, the stock market, and finance. Consult a professional investment advisor before making any investment decisions. This is for educational purposes.   
+## 🔴 This is not financial advice. Please conduct your own research and do not rely solely on this information for investing or trading in the stock market. However, if you are interested in the stock market, it is recommended that you read books on investment, trading, the stock market, and finance. It is also advisable to consult a professional investment advisor before making any investment decisions. This information is provided for educational purposes only.    
