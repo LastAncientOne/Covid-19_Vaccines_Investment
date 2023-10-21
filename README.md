@@ -47,4 +47,5 @@ The cash flow statement (CFS) comprises three main components: cash from operati
 ### Tin Hang  
 
 ## Disclaimer
-## 🔴 This is not financial advice. Please conduct your own research and do not rely solely on this information for investing or trading in the stock market. However, if you are interested in the stock market, it is recommended that you read books on investment, trading, the stock market, and finance. It is also advisable to consult a professional investment advisor before making any investment decisions. This information is provided for educational purposes only.    
+### 🔴 This isn't financial advice. Do your own research and don't use this code for investing or trading in stocks. If you're keen on the stock market, consider reading books on investment, trading, and finance. It's a good idea to talk to a professional investment advisor before making any investment choices. Keep in mind, this information is for educational purposes.  
+ 
